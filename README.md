@@ -6,7 +6,10 @@ I worked on all parts of the project, from the initial API design document to th
 
 Below you can see how I approached designing the API according to the project requirements, and what this project was all about..
 
+
+
 Summary Description of Project
+
 This project, we believe, uses the law of “six degrees of
 separation” to calculate a “bacon number”, which will show the
 relationship(s) that actor Kevin Bacon has to other actors through
